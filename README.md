@@ -1,4 +1,4 @@
-# The development of Log Aesthetic Patch and its projection onto the plane
+# Log Aesthetic Patch
 **submitted to Mathematics (MDPI) for publication on 8/12/2021.**
 
 Yee Meng Teh 1, R.U. Gobithaasan 2 *, Kenjiro T. Miura 3, Diya’ J. Albayari 4, and Wen Eng Ong 1
