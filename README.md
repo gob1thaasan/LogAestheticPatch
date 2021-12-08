@@ -1,5 +1,5 @@
 # The development of Log Aesthetic Patch and its projection onto the plane
-***submitted to Mathematics (MDPI) for publication*
+**submitted to Mathematics (MDPI) for publication**
 Yee Meng Teh 1, R.U. Gobithaasan 2 *, Kenjiro T. Miura 3, Diya’ J. Albayari 4, and Wen Eng Ong 1
 
 1.	School of Mathematical Sciences, Universiti Sains Malaysia, Minden 11800, Malaysia;
